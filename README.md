@@ -1,4 +1,4 @@
-## Bem vindo ao meu perfil!! ![image](https://user-images.githubusercontent.com/54871018/130386274-40c70630-f689-444e-bb90-21eac737f1fa.png)
+## Bem vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/54871018/130386274-40c70630-f689-444e-bb90-21eac737f1fa.png " alt="drawing" width="35"/>
 
 <a href="https://github.com/RodrigoErico">
  <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
