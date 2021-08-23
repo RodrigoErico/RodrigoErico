@@ -1,13 +1,14 @@
 ## Bem vindo ao meu perfil. <img src="https://user-images.githubusercontent.com/54871018/130386274-40c70630-f689-444e-bb90-21eac737f1fa.png " alt="drawing" width="35"/>
+
 <a href="https://github.com/RodrigoErico">
  <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
 </a>
 
-<div>
+ <div>
   <a href="https://github.com/RodrigoErico">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rodrigoerico&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=dark"/>
-</div>
+ </div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Rodrigo-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
