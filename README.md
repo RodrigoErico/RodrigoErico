@@ -10,8 +10,8 @@
  </a>
  </div>
  <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=black&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=black"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=vue-dark"/>
  </div>
 
 ### Ferramentas e Tecnologias:
