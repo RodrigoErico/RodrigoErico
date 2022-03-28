@@ -11,7 +11,7 @@
  </a>
  </div>
  <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rodrigoerico&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=write&include_all_commits=true&count_private=true"/>
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=write"/>
  </div>
 
@@ -39,3 +39,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoErico)](https://git.io/streak-stats)
 
+![Snake animation](https://github.com/rodrigoerico/rodrigoerico/blob/output/github-contribution-grid-snake.svg)
