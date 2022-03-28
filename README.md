@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+me+chamo+Rodrigo+!;Bem+vindo+ao+meu+perfil+GitHub+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+me+chamo+Rodrigo!;Bem+vindo+ao+meu+perfil+GitHub+👋)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/RodrigoErico">
   <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
