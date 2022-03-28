@@ -1,5 +1,4 @@
-## Olá, me chamo Rodrigo ! 
-### Bem vindo ao meu perfil GitHub 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+me+chamo+Rodrigo+!;Bem+vindo+ao+meu+perfil+GitHub+👋)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/RodrigoErico">
   <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
@@ -36,7 +35,5 @@
  <a href = "mailto:devsrodrigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rodrigo-%C3%A9rico-143b5a14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=RodrigoErico)](https://git.io/streak-stats)
 
 ![Snake animation](https://github.com/rodrigoerico/rodrigoerico/blob/output/github-contribution-grid-snake.svg)
