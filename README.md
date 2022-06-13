@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Olá,+me+chamo+Rodrigo!;Bem+vindo+ao+meu+perfil+GitHub+👋)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=17A938&lines=Ol%C3%A1%2C+eu+sou+o+Rodrigo!+👋;Bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg)
  <div>
   <a href="https://github.com/RodrigoErico">
   <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
@@ -26,8 +26,7 @@
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" width="45"/>   
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" width="40"/>
  </div>
-
-
+ 
 
 ### Contatos: <div style="display: inline_block"><br>
  <a href = "mailto:devsrodrigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
