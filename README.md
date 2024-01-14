@@ -18,10 +18,13 @@
 
 - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
-- 📫 Entrar em contato comigo no e-mail: rodrigoerico25@gmail.com
+- 📫 Para entrar em contato comigo : <div style="display: inline_block">
+ <a href = "mailto:devsrodrigo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ <a href="https://www.linkedin.com/in/rodrigo-%C3%A9rico-143b5a14b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 </br>
 
-
+<!--
  <div>
   <a href="https://github.com/RodrigoErico">
   <img src="https://komarev.com/ghpvc/?username=RodrigoErico" alt="page views" />
@@ -34,8 +37,8 @@
  </div>
  <div>
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=github_dark"/>-->
- </div>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=github_dark"/>
+ </div>-->
 
 ### Ferramentas e Tecnologias:
 <table width="320px">
