@@ -1,6 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=437cbd&lines=Ol%C3%A1%2C+eu+sou+o+Rodrigo!+👋;Bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg) 
 
-<details>
+<!--<details>
     <summary><b>✨Sobre mim ...</b></summary><br/>
  
     - 🔭 Atualmente estou buscando meu primeiro emprego.
@@ -10,7 +10,16 @@
     - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
     - 📫 Entrar em contato comigo no e-mail: rodrigoerico25@gmail.com
-</details></br>
+</details></br>-->
+<b>✨Sobre mim ...</b>
+- 🔭 Atualmente estou buscando meu primeiro emprego.
+
+- 🧑‍💻 Atualmente estou aprendendo desenvolvimento backend (Java).
+
+- 🧑‍🎨 Estou pronto para colaborar em projetos.
+
+- 📫 Entrar em contato comigo no e-mail: rodrigoerico25@gmail.com
+</br>
 
 
  <div>
@@ -24,8 +33,8 @@
  </a>
  </div>
  <div>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=RodrigoErico&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/> 
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rodrigoerico&layout=compact&langs_count=7&theme=github_dark"/>-->
  </div>
 
 ### Ferramentas e Tecnologias:
@@ -40,7 +49,6 @@
             <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
             <span><strong>VS Code</strong></span><br>
             </td>
-            
         </tr>
     </tbody>
 </table>
