@@ -5,7 +5,7 @@
  
     - 🔭 Atualmente estou buscando meu primeiro emprego.
 
-    - 🧑‍💻 Atualmente estou aprendendo desenvolvimento backend (Java).
+    - 🧑‍💻 Atualmente estou aprendendo desenvolvimento mobile android (kotlin).
 
     - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
@@ -45,8 +45,12 @@
     <tbody>
         <tr valign="top">
           <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-            <span><strong>Java</strong></span><br>
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            <span><strong>Kotlin</strong></span><br>
+            </td>
+            <td width="90px" align="center">
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+            <span><strong>Android Studio</strong></span><br>
             </td>
             <td width="90px" align="center">
             <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
