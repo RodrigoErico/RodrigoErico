@@ -1,20 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=437cbd&lines=Ol%C3%A1%2C+eu+sou+o+Rodrigo!+👋;Bem+vindo+ao+meu+perfil.)](https://git.io/typing-svg) 
 
-<!--<details>
-    <summary><b>✨Sobre mim ...</b></summary><br/>
- 
-    - 🔭 Atualmente estou buscando meu primeiro emprego.
-
-    - 🧑‍💻 Atualmente estou aprendendo desenvolvimento mobile android (kotlin).
-
-    - 🧑‍🎨 Estou pronto para colaborar em projetos.
-
-    - 📫 Entrar em contato comigo no e-mail: rodrigoerico25@gmail.com
-</details></br>-->
 <b>✨Sobre mim ...</b>
 - 🔭 Atualmente estou buscando meu primeiro emprego.
 
-- 🧑‍💻 Atualmente estou aprendendo desenvolvimento backend (Java).
+- 🧑‍💻 Atualmente estou aprendendo desenvolvimento mobile android (kotlin).
 
 - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
