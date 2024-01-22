@@ -3,7 +3,7 @@
 <b>✨Sobre mim ...</b>
 - 🔭 Atualmente estou buscando meu primeiro emprego.
 
-- 🧑‍💻 Atualmente estou aprendendo desenvolvimento mobile android (kotlin).
+- 🧑‍💻 Atualmente estou aprendendo desenvolvimento BackEnd (C#).
 
 - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
@@ -34,16 +34,20 @@
     <tbody>
         <tr valign="top">
           <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-            <span><strong>Kotlin</strong></span><br>
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <span><strong>C Sharp</strong></span><br>
             </td>
             <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-            <span><strong>Android Studio</strong></span><br>
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+            <span><strong>.NET Core</strong></span><br>
+            </td>
+         <td width="90px" align="center">
+            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+            <span><strong>Microsoft Visual Studio</strong></span><br>
             </td>
             <td width="90px" align="center">
             <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-            <span><strong>VS Code</strong></span><br>
+            <span><strong>Visual Studio Code</strong></span><br>
             </td>
         </tr>
     </tbody>
