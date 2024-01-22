@@ -38,7 +38,7 @@
             <span> <strong>C Sharp</strong></span><br>
             </td>
             <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
+            <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />
             <span><strong>.NET Core</strong></span><br>
             </td>
          <td width="90px" align="center">
