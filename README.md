@@ -34,7 +34,7 @@
     <tbody>
         <tr valign="top">
           <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
+            <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" />
             <span> <strong>C Sharp</strong></span><br>
             </td>
             <td width="90px" align="center">
