@@ -3,7 +3,7 @@
 <b>✨Sobre mim ...</b>
 - 🔭 Atualmente estou buscando meu primeiro emprego.
 
-- 🧑‍💻 Atualmente estou aprendendo desenvolvimento mobile (kotlin).
+- 🧑‍💻 Atualmente estou aprendendo desenvolvimento backend (Python).
 
 - 🧑‍🎨 Estou pronto para colaborar em projetos.
 
@@ -34,16 +34,20 @@
     <tbody>
         <tr valign="top">
           <td width="90px" align="center">
-            <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-            <span> <strong>Kotlin</strong></span><br>
+            <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+            <span> <strong>Python</strong></span><br>
             </td>
             <td width="90px" align="center">
-            <img height="60px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
-            <span><strong>Android Studio</strong></span><br>
+            <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" />
+            <span><strong>Django</strong></span><br>
             </td>
             <td width="90px" align="center">
-            <img height="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
-            <span><strong>Visual Studio Code</strong></span><br>
+            <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/djangorest/djangorest-original.svg" />
+            <span><strong>Django Rest</strong></span><br>
+            </td>
+            <td width="90px" align="center">
+            <img height="70px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg" />
+            <span><strong>Jupyter</strong></span><br>
             </td>
         </tr>
     </tbody>
